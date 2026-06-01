@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Eric 👋
+**Automotive Engineer | Robotics & IoT Enthusiast **
 
-<!--
-**NicholasEric/NicholasEric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 G30 Scholar @ Nagoya University (Mechanical & Aerospace Eng.)  
+🤖 Cyber Robotics Research Group (AI Micro-manipulation)  
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+`JavaScript/TypeScript` `Python` `Flutter` `Next.js/React` `Firebase` `ROS2` `Unity` `C/C#` `MATLAB`  
+`Arduino/ESP32` `SOLIDWORKS`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Focus
+- 🔋 **KINTO**: Co-founding an IoT + wearable startup (ESP32 sensing + Flutter/Firebase mobile app)
+- 🏎️ **Nagoya Univ Formula Team**: Building real-time telemetry UI with Next.js + MQTT
+
+## 📫 Connect
+📧 nicholaseric.269@gmail.com  
+🐙 [GitHub](https://github.com/NicholasEric) | 💼 [LinkedIn](https://www.linkedin.com/in/nicholas-eric/)
