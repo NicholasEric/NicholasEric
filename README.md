@@ -1,5 +1,5 @@
 # Hi, I'm Eric 👋
-**Automotive Engineer | Robotics & IoT Enthusiast **
+_Automotive Engineer | Robotics & IoT Enthusiast_
 
 🎓 G30 Scholar @ Nagoya University (Mechanical & Aerospace Eng.)  
 🤖 Cyber Robotics Research Group (AI Micro-manipulation)  
